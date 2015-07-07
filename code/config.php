@@ -13,4 +13,5 @@ define('IS_DEBUG', true);
 define('ENCODING', 'utf8');
 define('ENCODING_DEFIS', 'utf-8');
 define('DOCUMENT_ROOT', $_SERVER['DOCUMENT_ROOT']);
+define('CODE_ROOT', $_SERVER['DOCUMENT_ROOT'].'/../code');
 define('SERVER_NAME', $_SERVER['SERVER_NAME']);
